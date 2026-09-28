@@ -1,19 +1,11 @@
 
 <div align="center">
 
-<img src="assets/logo.png" alt="logo" width="768"/>
-
----
-
-![License: GPL-2.0](https://img.shields.io/badge/GPL--2.0-red?style=for-the-badge)
-![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge\&logo=nintendo-switch\&logoColor=white)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://dsc.gg/horizonoc)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
-![Made with Notepad++](assets/np++.png?raw=true)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Downloads](https://img.shields.io/github/downloads/Horizon-OC/Horizon-OC/total.svg?style=for-the-badge)
-
----
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+<source media="(prefers-color-scheme: light)" srcset="assets/logo-light.png">
+<img src="assets/logo-dark.png" alt="logo" width="380">
+</picture>
 
 </div>
 
@@ -27,8 +19,29 @@
 
 ## About
 
-**Horizon OC** is an open-source overclocking tool for Nintendo Switch consoles running **Atmosphere custom firmware**.
-It enables advanced CPU, GPU, and RAM tuning with user-friendly configuration tools.
+This repository exists solely as a **safe alternative to Horizon OC** due to ongoing **harassment, intimidation, and hostile behavior** directed at Tico users and users of other projects.
+
+One of the developers behind Horizon OC, **souldbminer**, has repeatedly engaged in behavior that has raised serious concerns within the community, including **harassment, intimidation, hostility toward users, and targeting people simply for using or supporting projects he disagrees with**.
+
+Disagreement is completely normal in an open-source community. **Harassing users, attempting to intimidate them, or using your position as a developer to create hostility toward people who choose different software is not.**
+
+The reason this behavior is particularly concerning in this case is that Horizon OC is not some harmless application. It is a **Nintendo Switch overclocking tool that operates through Atmosphère and low-level system components**.
+
+Users are therefore expected to place a significant amount of trust in the people who maintain and distribute it.
+
+A maintainer with the ability to push updates can potentially introduce changes that users will install on their consoles without necessarily reviewing every modification themselves. With software operating at this level, a malicious or deliberately destructive change could potentially cause **system instability, data corruption, excessive hardware stress, or, in an extreme case, permanent damage to the console**.
+
+**That is the actual concern.**
+
+This is not about claiming that every release is malicious or that every user will experience hardware damage. It is about whether users should be expected to blindly trust someone who has repeatedly demonstrated behavior that has made members of the community uncomfortable or concerned.
+
+You should never have to choose between **using software you want and exposing yourself to harassment, intimidation, or unnecessary risk from the people controlling its development**.
+
+This repository exists to provide a **clean and community-friendly alternative** for users who want the functionality without having to rely on Horizon OC or its maintainers.
+
+**Review the code. Review the history. Know who has control over what you install on your console.**
+
+When someone has the ability to distribute low-level software to your device, **their behavior and trustworthiness matter just as much as the code itself.**
 
 ---
 
